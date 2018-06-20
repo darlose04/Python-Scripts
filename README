@@ -8,3 +8,5 @@ big_diff.py: This is a script that returns the largest difference between number
 binaryconverter.py: This script asks the user for a number input and then converts that number to an integer and then to a binary number.
 
 blackjacktest.py: This is a game of blackjack I created. It still has some minor issues I need to fix and adjust to get it where I want, but it works for simply playing the game.
+
+count_evens.py: This is a script that counts the number of even numbers in an array.
