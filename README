@@ -2,3 +2,5 @@ Python Scripts
 
 A number of Python scripts that I have completed through Udemy courses, edX MIT Python, Exercism, 
 as well as other small ideas I have created. 
+
+big_diff.py: This is a script that returns the largest difference between numbers in an array. 
