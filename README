@@ -12,3 +12,6 @@ blackjack.py: This is a game of blackjack I created. It still has some minor iss
 count_evens.py: This is a script that counts the number of even numbers in an array.
 
 countString.py: A script that simply counts the number of words in a string.
+
+countVowels.py: Prints the number of each vowel in s tring as well as the total number of vowels.
+
