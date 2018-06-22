@@ -22,3 +22,5 @@ countVowels3.py: This counts the total number of vowels in a string.
 factorial.py: A script that finds the factorial of a number through recursion. Also includes commented out code that doesn't use recursion.
 
 fizzbuzz.py: A script that prints the numbers 1-100  (or whatever range is desired). For multiples of three, "Fizz" is printed, for multiples of five, "Buzz" is printed, and for multiples of three and five, "FizzBuzz" is printed.
+
+longest_word.py: Returns the longest word in a sentence string.
