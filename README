@@ -1,7 +1,7 @@
 Python Scripts
 
 A number of Python scripts that I have completed through Udemy courses, edX MIT Python, Exercism, 
-as well as other small projects I have worked on. 
+as well as other small scripts I have worked on. 
 
 big_diff.py: This is a script that returns the largest difference between numbers in an array. 
 
@@ -30,3 +30,4 @@ multiples_3_5.py: Prints a list of all numbers that are multiples of three and f
 palindrome.py: Determines whether or not a user entered string is a palindrome.
 
 piglatin.py: Changes a user given word into pig latin, for example banana becomes anana-bay.
+
