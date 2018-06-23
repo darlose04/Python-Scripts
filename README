@@ -26,3 +26,6 @@ fizzbuzz.py: A script that prints the numbers 1-100  (or whatever range is desir
 longest_word.py: Returns the longest word in a sentence string.
 
 multiples_3_5.py: Prints a list of all numbers that are multiples of three and five in a given range as well as the sum of the list.
+
+palindrome.py: Determines whether or not a user entered string is a palindrome.
+
