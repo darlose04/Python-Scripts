@@ -31,4 +31,4 @@ palindrome.py: Determines whether or not a user entered string is a palindrome.
 
 pigLatin.py: Changes a user given word into pig latin, for example banana becomes anana-bay.
 
-randomPasswordGenerator.py: Generates a random password of 15 characters, made up of numbers letters and symbols.
+randomPasswordGenerator.py: Generates a random password of 15 characters, made up of numbers, letters, and symbols.
