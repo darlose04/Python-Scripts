@@ -29,3 +29,4 @@ multiples_3_5.py: Prints a list of all numbers that are multiples of three and f
 
 palindrome.py: Determines whether or not a user entered string is a palindrome.
 
+piglatin.py: Changes a user given word into pig latin, for example banana becomes anana-bay.
