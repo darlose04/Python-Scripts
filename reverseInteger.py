@@ -5,10 +5,10 @@ def reverse(x):
 
     if lstString[0] == '-':
         lstString.pop(0)
-        return '-' + ''.join(lstString[::-1])
+        return int('-' + ''.join(lstString[::-1]))
 
     else:
-        return ''.join(lstString[::-1])
+        return int(''.join(lstString[::-1]))
     
     
 
