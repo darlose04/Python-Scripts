@@ -34,3 +34,5 @@ pigLatin.py: Changes a user given word into pig latin, for example banana become
 randomPasswordGenerator.py: Generates a random password of 15 characters, made up of numbers, letters, and symbols.
 
 reverseInteger.py: Returns the reverse of a given integer. So 453 returns 354 and -45 returns -54. 
+
+reverseString.py: Returns the reverse of a user given string.
