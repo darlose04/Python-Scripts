@@ -1,3 +1,5 @@
 This folder contains scripts/games from Invent with Python.
 
 morse_code.py: This is a Morse code translator which takes an input from the user and returns the string in Morse code. It also takes Morse code and returns it to English.
+
+guess_num.py: A simple game where the user has 5 chances to guess the correct number, which is reandomly decided by the script.
