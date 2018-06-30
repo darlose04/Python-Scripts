@@ -1,0 +1,3 @@
+The problem set for this week in the MIT edX course involved writing three separate scripts and plugging those scripts into
+the ps3_hangman.py file in order to complete the game. The separate wk_p_.py problems are what is plugged into the ps3_hangman.py script.
+The rest of the code within the ps3_hangman.py file was already completed. The words.txt file also needs to be in the same folder as the ps3_hangman.py file in order for the game to work. 
