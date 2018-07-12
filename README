@@ -50,3 +50,5 @@ rna_transcription.py: Returns the RNA complement of a given DNA strand. DNA has 
     'C' -> 'G'
     'T' -> 'A'
     'A' -> 'U'
+
+    This script contains two different functions which accomplish the same task. One uses a for loop with if/elif statements, the other uses a dictionary, for loop, and if statement.
