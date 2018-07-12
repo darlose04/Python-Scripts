@@ -36,3 +36,5 @@ randomPasswordGenerator.py: Generates a random password of 15 characters, made u
 reverseInteger.py: Returns the reverse of a given integer. So 453 returns 354 and -45 returns -54. 
 
 reverseString.py: Returns the reverse of a user given string.
+
+beer_song.py: Recreates the song '99 Bottles of Beer on the Wall' with a given number as the number of beers starting on the wall. 
