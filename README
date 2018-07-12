@@ -40,3 +40,5 @@ reverseString.py: Returns the reverse of a user given string.
 beer_song.py: Recreates the song '99 Bottles of Beer on the Wall' with a given number as the number of beers starting on the wall. 
 
 isogram.py: Returns True or False indicating whether a given string is an isogram or not. An isogram is a word (string in this instance) that doesn't repeat a letter. 
+
+leap.py: Returns whether or not a given year is a leap year.
