@@ -44,3 +44,9 @@ isogram.py: Returns True or False indicating whether a given string is an isogra
 leap.py: Returns whether or not a given year is a leap year.
 
 pangram.py: Returns whether or not the given string/sentence is a pangram. A pangram is a sentence that contains every letter in the alphabet.
+ 
+ rna_transcription.py: Returns the RNA complement of a given DNA strand. DNA has four nucleotides, adenine (A), cytosine (C), guanine (G), and thymine (T). RNA also has four nucleotides, adenine (A), cytosine (C), guanine (G), and uracil (U). 
+    'G' -> 'C'
+    'C' -> 'G'
+    'T' -> 'A'
+    'A' -> 'U'
